@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://asquitt.github.io/orbitr-pages-fixture/sitemap.xml
